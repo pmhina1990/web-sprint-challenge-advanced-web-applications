@@ -13,7 +13,7 @@ const EditMenu = ({colorToEdit, saveEdit, setColorToEdit, setEditing}) => {
             }
             value={colorToEdit.color}
           />
-        </div>  
+         </div>
       
         <div>
           <label htmlFor="hex">hex code: </label>
